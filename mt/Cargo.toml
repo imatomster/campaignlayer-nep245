@@ -1,0 +1,12 @@
+[package]
+name = "Campaign Layer's NEP245"
+version = "0.1.0"
+authors = ["Campaign Layers", "support@campaignlayers.com"]
+edition = "2023"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+near-sdk = { path = "../../../near-sdk" }
+near-contract-standards = { path = "../../../near-contract-standards" }
