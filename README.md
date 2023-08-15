@@ -1,6 +1,8 @@
 # CampaignLayerNEP245 Smart Contract
 
-The CampaignLayerNEP245 smart contract is designed to provide multi-token management functionality on the NEAR Protocol. It adheres to the NEAR Contract Standards for Multi-Token and includes features for token minting, transferring, approvals, batch transfers, and now token burning.
+The CampaignLayerNEP245 smart contract is designed to provide multi-token management functionality on the NEAR Protocol. This should mimic the existing ERC1155 we have been using on the Ethereum blockchain.
+
+This includes features for token minting, transferring, approvals, batch transfers, and now token burning!
 
 ## Functions
 
